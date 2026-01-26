@@ -2,14 +2,6 @@
 
 Projet React initialisé avec Vite.
 
-## Installation
-```bash
-git clone 
-cd redline-frontend
-cp .env.example .env
-npm install
-npm run dev
-```
 
 ## Structure du projet
 ```
