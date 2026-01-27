@@ -41,3 +41,5 @@ src/
 | `features/` | Logique métier par domaine (composants, hooks, services) |
 | `pages/` | Assemblage des features pour chaque route |
 | `layouts/` | Structure commune entre plusieurs pages |
+
+test
